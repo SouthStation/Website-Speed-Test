@@ -3,7 +3,7 @@
 	{  
 		var $url;
 		var $raw_data_result;
-		var $auth_id = "AIzaSyB0QGEfazLi-lrT1D3_pJU5dKsmvrGPDOs";
+		var $auth_id = "### ENTER AUTH ID ###";
 		/*****************************
 		 * Function: set_url
 		 *
